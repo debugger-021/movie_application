@@ -15,5 +15,3 @@ Tech Stack
 - Track and display trending movies (based on search count)
 - Data stored in Appwrite database
 - Responsive UI built with Tailwind CSS
-
----
